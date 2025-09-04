@@ -1,0 +1,219 @@
+[
+    {
+        "isoCode": "AFG",
+        "name": "Afghanistan",
+        "tradition": "Historical",
+        "significance": "The region was once a major center of Greco-Buddhism and Mahayana, home to the Bamiyan Buddhas. Very few Buddhists remain today.",
+        "category": "historical"
+    },
+    {
+        "isoCode": "AUS",
+        "name": "Australia",
+        "tradition": "Multi-Tradition",
+        "significance": "Growing population of Theravada (Sri Lankan, Thai, Burmese), Mahayana (Chinese, Vietnamese), and Vajrayana (Tibetan) communities.",
+        "category": "diaspora_hub"
+    },
+    {
+        "isoCode": "BGD",
+        "name": "Bangladesh",
+        "tradition": "Theravada",
+        "significance": "Home to a significant minority Theravada population, particularly the Barua and Chakma people. Historically part of the Vihara-based Pala Empire.",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "BTN",
+        "name": "Bhutan",
+        "tradition": "Vajrayana",
+        "significance": "Buddhism is the state religion. The Drukpa Kagyu school of Vajrayana Buddhism is dominant.",
+        "category": "core"
+    },
+    {
+        "isoCode": "KHM",
+        "name": "Cambodia",
+        "tradition": "Theravada",
+        "significance": "Theravada Buddhism is the state religion, followed by over 95% of the population. Home to Angkor Wat, originally a Hindu-Buddhist temple complex.",
+        "category": "core"
+    },
+    {
+        "isoCode": "CAN",
+        "name": "Canada",
+        "tradition": "Multi-Tradition",
+        "significance": "Diverse communities from all major traditions: Theravada, East Asian Mahayana, and Tibetan Vajrayana.",
+        "category": "diaspora_hub"
+    },
+    {
+        "isoCode": "CHN",
+        "name": "China",
+        "tradition": "Mahayana",
+        "significance": "The largest population of Buddhists in the world. Predominantly Mahayana (Pure Land, Chan/Zen, Tiantai). Also has Vajrayana communities in Tibet and Inner Mongolia.",
+        "category": "core"
+    },
+    {
+        "isoCode": "TWN",
+        "name": "Taiwan",
+        "tradition": "Mahayana",
+        "significance": "A major center of Chinese Mahayana Buddhism, with influential humanistic Buddhist organizations like Fo Guang Shan and Tzu Chi.",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "FRA",
+        "name": "France",
+        "tradition": "Multi-Tradition",
+        "significance": "Has one of the largest Buddhist populations in Europe, with strong Zen, Tibetan, and Theravada (particularly from Southeast Asia) communities.",
+        "category": "diaspora_hub"
+    },
+    {
+        "isoCode": "IND",
+        "name": "India",
+        "tradition": "Multi-Tradition",
+        "significance": "The birthplace of Buddhism. Sites like Bodh Gaya, Sarnath, and Nalanda are paramount. Home to Tibetan Vajrayana in exile, Theravada, and Navayana.",
+        "category": "core"
+    },
+    {
+        "isoCode": "IDN",
+        "name": "Indonesia",
+        "tradition": "Historical",
+        "significance": "Historically home to the Srivijaya and Majapahit empires (Mahayana/Vajrayana). Borobudur is the world's largest Buddhist temple. A minority practice today.",
+        "category": "historical"
+    },
+    {
+        "isoCode": "JPN",
+        "name": "Japan",
+        "tradition": "Mahayana",
+        "significance": "A core country for Mahayana Buddhism, with schools such as Zen, Pure Land, Nichiren, and Shingon.",
+        "category": "core"
+    },
+    {
+        "isoCode": "KAZ",
+        "name": "Kazakhstan",
+        "tradition": "Historical",
+        "significance": "Part of the ancient Silk Road where Buddhism spread. Very small modern presence.",
+        "category": "historical"
+    },
+    {
+        "isoCode": "KGZ",
+        "name": "Kyrgyzstan",
+        "tradition": "Historical",
+        "significance": "Similar to Kazakhstan, had a historical Buddhist presence. Modern practitioners are a tiny minority.",
+        "category": "historical"
+    },
+    {
+        "isoCode": "LAO",
+        "name": "Laos",
+        "tradition": "Theravada",
+        "significance": "Theravada Buddhism is the dominant religion and a core part of Lao cultural identity.",
+        "category": "core"
+    },
+    {
+        "isoCode": "MYS",
+        "name": "Malaysia",
+        "tradition": "Multi-Tradition",
+        "significance": "Significant population of Theravada and Chinese Mahayana Buddhists, particularly in urban areas.",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "MMR",
+        "name": "Myanmar",
+        "tradition": "Theravada",
+        "significance": "One of the most predominantly Buddhist countries. Theravada Buddhism is deeply integrated into the culture. A major center for Vipassana meditation.",
+        "category": "core"
+    },
+    {
+        "isoCode": "MNG",
+        "name": "Mongolia",
+        "tradition": "Vajrayana",
+        "significance": "Tibetan Buddhism (Gelug school) is the traditional religion of the majority, after a revival post-communism.",
+        "category": "core"
+    },
+    {
+        "isoCode": "NPL",
+        "name": "Nepal",
+        "tradition": "Multi-Tradition",
+        "significance": "Birthplace of the Buddha (Lumbini). A mix of Theravada, Tibetan Vajrayana, and Newar Vajrayana Buddhism.",
+        "category": "core"
+    },
+    {
+        "isoCode": "NZL",
+        "name": "New Zealand",
+        "tradition": "Multi-Tradition",
+        "significance": "Growing diverse Buddhist community from Asia and converts.",
+        "category": "diaspora_hub"
+    },
+    {
+        "isoCode": "PRK",
+        "name": "North Korea",
+        "tradition": "Historical",
+        "significance": "Buddhism exists under state control and surveillance. Historically significant.",
+        "category": "historical"
+    },
+    {
+        "isoCode": "KOR",
+        "name": "South Korea",
+        "tradition": "Mahayana",
+        "significance": "A significant portion of the population practices Buddhism, primarily the Seon (Zen) school.",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "RUS",
+        "name": "Russia",
+        "tradition": "Vajrayana",
+        "significance": "Traditional religion in regions like Buryatia, Tuva, and Kalmykia (the only Buddhist majority region in Europe).",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "SGP",
+        "name": "Singapore",
+        "tradition": "Multi-Tradition",
+        "significance": "A key hub for all major Buddhist traditions, with large Theravada and Mahayana communities from its diverse population.",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "LKA",
+        "name": "Sri Lanka",
+        "tradition": "Theravada",
+        "significance": "The oldest continually Buddhist country. Theravada is the majority religion and the foundation of Sinhalese culture. Home to the sacred tooth relic in Kandy.",
+        "category": "core"
+    },
+    {
+        "isoCode": "THA",
+        "name": "Thailand",
+        "tradition": "Theravada",
+        "significance": "One of the world's most predominantly Buddhist nations. The Thai Forest Tradition is a major influence on modern Western Vipassana practice.",
+        "category": "core"
+    },
+    {
+        "isoCode": "USA",
+        "name": "United States",
+        "tradition": "Multi-Tradition",
+        "significance": "Extremely diverse. Includes all Asian traditions and a large number of convert communities in Zen, Vipassana, and Tibetan Buddhism.",
+        "category": "diaspora_hub"
+    },
+    {
+        "isoCode": "VNM",
+        "name": "Vietnam",
+        "tradition": "Mahayana",
+        "significance": "The largest religion in Vietnam, a unique blend of Pure Land and Thiền (Zen) Buddhism.",
+        "category": "core"
+    },
+    {
+        "isoCode": "HKG",
+        "name": "Hong Kong",
+        "tradition": "Mahayana",
+        "significance": "A major center for Chinese Mahayana Buddhism, with many influential temples and organizations.",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "MAC",
+        "name": "Macau",
+        "tradition": "Mahayana",
+        "significance": "Similar to Hong Kong, with a strong Chinese Mahayana presence influenced by its history.",
+        "category": "significant_community"
+    },
+    {
+        "isoCode": "TIB",
+        "name": "Tibet",
+        "tradition": "Vajrayana",
+        "significance": "The spiritual homeland of Tibetan Buddhism. The Gelug, Kagyu, Sakya, and Nyingma schools originate here.",
+        "category": "core"
+    }
+]
